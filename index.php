@@ -1,6 +1,4 @@
 <?php
-echo phpinfo();
-die('gggg');
 
 /**
  * Laravel - A PHP Framework For Web Artisans
